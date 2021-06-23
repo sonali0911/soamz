@@ -42,6 +42,7 @@ public class HomePage {
 	public void clickOnSearchButton()
 	{
 		searchbtn.click();
+		System.out.println("hii");
 	}
 	public void selectThePlant()
 	{
